@@ -8,6 +8,8 @@ const SessaoDoisContainer = styled.section`
   height: 604px;
   display: flex;
   justify-content: center;
+  position: relative;
+  overflow: hidden;
 `;
 
 const Conteudo = styled.div`
